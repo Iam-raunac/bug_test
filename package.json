@@ -1,0 +1,11 @@
+{
+  "name": "login-bug-test",
+  "version": "1.0.0",
+  "description": "Simple login module with authentication",
+  "main": "auth/login.js",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "keywords": ["auth", "login", "javascript"],
+  "license": "MIT"
+}
